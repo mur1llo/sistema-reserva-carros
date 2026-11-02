@@ -11,7 +11,7 @@ O objetivo é implementar a estrutura de um banco de dados para um sistema de re
 - SQL
 - MySQL Workbench (caso utilizado)
 
-## 0Estrutura do banco de dados
+## -Estrutura do banco de dados
 
 O banco de dados é composto por cinco tabelas principais:
 
