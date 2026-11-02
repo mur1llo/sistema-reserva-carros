@@ -1,6 +1,6 @@
 # -Sistema de Reserva de Carros
 
-## -📌 Sobre o projeto
+## -Sobre o projeto
 
 
 O objetivo é implementar a estrutura de um banco de dados para um sistema de reserva de veículos, utilizando MySQL para organizar informações sobre clientes, carros, sedes, classes de veículos e reservas.
@@ -11,7 +11,7 @@ O objetivo é implementar a estrutura de um banco de dados para um sistema de re
 - SQL
 - MySQL Workbench (caso utilizado)
 
-## ⚙️ Estrutura do banco de dados
+## 0Estrutura do banco de dados
 
 O banco de dados é composto por cinco tabelas principais:
 
